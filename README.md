@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript and React**
 
-- 💬 Ask me about **Automation tools and frameworks**
+- 💬 Ask me about **Automation tools and frameworks** 
 
 - 📫 How to reach me **aaronlopezoliden@gmail.com**
 
